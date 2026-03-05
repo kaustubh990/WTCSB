@@ -15,15 +15,6 @@ person1.displayInfo();
 
 
 
-
-
-
-
-
-
-
-
-
 }
 
 
