@@ -2,8 +2,8 @@
 void main() {
 
 	// Literals
-	var isCool = true;
-	int x = 2;
+
+
 	"John";
 	4.5;
 
